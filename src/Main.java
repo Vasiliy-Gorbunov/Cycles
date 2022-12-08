@@ -28,6 +28,9 @@ public class Main {
     }
 
     public static void task4() {
-
+        System.out.println("\nЗадача 4:");
+        for (int i = 10; i >= -10; i--) {
+            System.out.println(i);
+        }
     }
 }
